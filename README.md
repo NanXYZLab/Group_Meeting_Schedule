@@ -1,6 +1,4 @@
-# Group Meetings Schedule (Spring)
-
-This document tracks the group meeting schedule. Presenters and topics will be added as they are confirmed.
+# Group Meetings Schedule (Spring 2026)
 
 ##  Meeting Schedule
 
