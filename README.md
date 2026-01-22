@@ -22,5 +22,5 @@ This document tracks the group meeting schedule. Presenters and topics will be a
 ---
 
 ## Notes
-- Meetings are held weekly 198 slawson hall from 1PM to 2PM.
+- Weekly meetings: 1:00–2:00 PM, Room 198, Slawson Hall.
 
