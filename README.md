@@ -4,7 +4,7 @@
 
 | Date        | Presenter | Topic / Notes |
 |------------|-----------|---------------|
-| Feb 5      | Fenando   |               |
+| Feb 5      | Fernando   |               |
 | Feb 12     | Akshay    |               |
 | Feb 19     | Alex      |               |
 | Feb 26     | TBD       |               |
