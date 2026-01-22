@@ -21,4 +21,4 @@
 
 ## Notes
 - Weekly meetings: 1:00–2:00 PM, Room 198, Slawson Hall.
-
+- A brief presentation guideline is included for reference.
