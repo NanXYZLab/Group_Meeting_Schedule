@@ -14,7 +14,7 @@
 | Mar 26     | Meshari   |               |
 | Apr 2      | Arthur    |               |
 | Apr 9      | Bishal    |               |
-| Apr 16     | TBD       |               |
+| Apr 16     | Terry     |               |
 | Apr 23     | Somjai    |               |
 
 ---
