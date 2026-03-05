@@ -9,7 +9,7 @@
 | Feb 19     | Alex      |               |
 | Feb 26     | TBD       |               |
 | Mar 5      | TBD       |               |
-| Mar 12     | Susu      | Yiling Absent              |
+| Mar 12     | TBD       | Yiling Absent              |
 | Mar 19     | Spring break   |               |
 | Mar 26     | Meshari   | Yiling Absent              |
 | Apr 2      | Arthur    |               |
