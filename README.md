@@ -1,3 +1,32 @@
+# Group Meetings Schedule (Fall 2026)
+
+##  Meeting Schedule
+
+| Date        | Presenter | Topic / Notes |
+|------------|-----------|---------------|
+| Aug 28      |  Meshari  |             |
+| Sept 4     |    |               |
+| Sept 11    |      |               |
+| Sept 18     |      |               |
+| Sept 25     |      |               |
+| Oct 2     |        |           |
+| Oct 9     |    |               |
+| Oct 16     |      |               |
+| Oct 23      |    |               |
+| Oct 30      |     |               |
+| Nov 6     |     |               |
+| Nov 13     |    |               |
+| Nov 20     |    |               |
+| Nov 27     |    |               |
+| Dec 4     |    |               |
+| Dec 11     |    |               |
+| Dec 18     |    |               |
+---
+
+## Notes
+- Weekly meetings: 14:30–16:00 PM, Room 298, Slawson Hall.
+- A brief presentation guideline is included for reference.
+
 # Group Meetings Schedule (Spring 2026)
 
 ##  Meeting Schedule
