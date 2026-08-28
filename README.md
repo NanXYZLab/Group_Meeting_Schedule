@@ -5,7 +5,7 @@
 | Date        | Presenter | Topic / Notes |
 |------------|-----------|---------------|
 | Aug 28      |  Meshari  |             |
-| Sept 4     |    |               |
+| Sept 4     |    |    Lab cleaning           |
 | Sept 11    |      |               |
 | Sept 18     |      |               |
 | Sept 25     |      |               |
