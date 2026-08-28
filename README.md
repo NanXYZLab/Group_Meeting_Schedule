@@ -4,21 +4,22 @@
 
 | Date        | Presenter | Topic / Notes |
 |------------|-----------|---------------|
-| Aug 28      |  Meshari  |             |
+| Aug 28      |     |             |
 | Sept 4     |    |    Lab cleaning           |
 | Sept 11    |      |               |
 | Sept 18     |      |               |
-| Sept 25     |      |               |
-| Oct 2     |        |           |
-| Oct 9     |    |               |
-| Oct 16     |      |   Oct 17-20 Fall Break               |
-| Oct 23      |    |   Oct 25-27 ACS Regional            |
-| Oct 30      |     |               |
-| Nov 6     |     |               |
+| Sept 25     | Fernando   |               |
+| Oct 2     |   Meshari    |           |
+| Oct 9     |  Corey, Somjai |               |
+| Oct 16     |   Akshay   |   Oct 17-20 Fall Break               |
+| Oct 23      |  Bishal  |   Oct 25-27 ACS Regional            |
+| Oct 30      |  Fernando |               |
+| Nov 6     |   Arthur   |               |
 | Nov 8-12     |    |    AiChE Meeting        |
-| Nov 20     |    |               |
-| Nov 27     |    |               |
-| Dec 4     |    |               |
+| Nov 13     |   Terry |               |
+| Nov 20     |   Abhi |               |
+| Nov 27     |    |      Thanks giving         |
+| Dec 4     |  quinn  |               |
 | Dec 11     |    |               |
 | Dec 18     |    |               |
 ---
