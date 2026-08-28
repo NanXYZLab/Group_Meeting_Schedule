@@ -15,7 +15,7 @@
 | Oct 23      |    |               |
 | Oct 30      |     |               |
 | Nov 6     |     |               |
-| Nov 13     |    |               |
+| Nov 8-12     |    |    AiChE Meeting        |
 | Nov 20     |    |               |
 | Nov 27     |    |               |
 | Dec 4     |    |               |
