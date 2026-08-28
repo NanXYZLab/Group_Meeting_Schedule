@@ -12,7 +12,7 @@
 | Oct 2     |        |           |
 | Oct 9     |    |               |
 | Oct 16     |      |               |
-| Oct 23      |    |               |
+| Oct 23      |    |   Oct 25-27 ACS Regional            |
 | Oct 30      |     |               |
 | Nov 6     |     |               |
 | Nov 8-12     |    |    AiChE Meeting        |
