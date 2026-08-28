@@ -11,7 +11,7 @@
 | Sept 25     |      |               |
 | Oct 2     |        |           |
 | Oct 9     |    |               |
-| Oct 16     |      |               |
+| Oct 16     |      |   Oct 17-20 Fall Break               |
 | Oct 23      |    |   Oct 25-27 ACS Regional            |
 | Oct 30      |     |               |
 | Nov 6     |     |               |
