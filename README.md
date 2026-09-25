@@ -12,9 +12,9 @@
 | Oct 2     |      |           |
 | Oct 9     |   Somjai |               |
 | Oct 16     |   Akshay   |   Oct 17-20 Fall Break               |
-| Oct 23      |  Bishal  |   Oct 25-27 ACS Regional            |
-| Oct 30      |  Corey, Fernando |               |
-| Nov 6     |   Arthur, Meshari   |               |
+| Oct 23      |  Bishal, Meshari  |   Oct 25-27 ACS Regional            |
+| Oct 30      |  Corey, Arthur, Fernando |               |
+| Nov 6     |      |      AiChE Meeting         |
 | Nov 8-12     |    |    AiChE Meeting        |
 | Nov 13     |   Terry |               |
 | Nov 20     |   Abhi |               |
