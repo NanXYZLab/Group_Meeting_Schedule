@@ -16,10 +16,10 @@
 | Oct 30      |  Corey, Arthur |               |
 | Nov 6     |      |      AiChE Meeting         |
 | Nov 8-12     |    |    AiChE Meeting        |
-| Nov 13     |   Terry |               |
-| Nov 20     |   Abhi |               |
+| Nov 13     |    |               |
+| Nov 20     |    |               |
 | Nov 27     |    |      Thanks giving         |
-| Dec 4     |  quinn  |               |
+| Dec 4     |  quinn / Abhi |               |
 | Dec 11     |    |               |
 | Dec 18     |    |               |
 ---
